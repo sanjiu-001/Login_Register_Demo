@@ -1,0 +1,15 @@
+com\yh\pojo\Brand.class
+com\yh\web\LoginServlet.class
+com\yh\web\updateServlet.class
+com\yh\mapper\BrandMapper.class
+com\yh\pojo\User.class
+com\yh\mapper\UserMapper.class
+com\yh\service\BrandService.class
+com\yh\web\AddServlet.class
+com\yh\service\UserService.class
+com\yh\util\SqlSessionFactoryUtils.class
+com\yh\web\selectAllServlet.class
+com\yh\web\DeleteByIdServlet.class
+com\yh\web\selectByIdServlet.class
+com\yh\web\CheckCodeServlet.class
+com\yh\web\RegisterServlet.class

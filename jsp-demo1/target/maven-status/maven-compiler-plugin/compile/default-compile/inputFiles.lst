@@ -1,0 +1,16 @@
+D:\javatext\Project_HTML\jsp-demo1\src\main\java\com\yh\mapper\UserMapper.java
+D:\javatext\Project_HTML\jsp-demo1\src\main\java\com\yh\mapper\BrandMapper.java
+D:\javatext\Project_HTML\jsp-demo1\src\main\java\com\yh\web\AddServlet.java
+D:\javatext\Project_HTML\jsp-demo1\src\main\java\com\yh\web\DeleteByIdServlet.java
+D:\javatext\Project_HTML\jsp-demo1\src\main\java\com\yh\web\selectAllServlet.java
+D:\javatext\Project_HTML\jsp-demo1\src\main\java\com\yh\util\SqlSessionFactoryUtils.java
+D:\javatext\Project_HTML\jsp-demo1\src\main\java\com\yh\util\CheckCodeUtil.java
+D:\javatext\Project_HTML\jsp-demo1\src\main\java\com\yh\pojo\User.java
+D:\javatext\Project_HTML\jsp-demo1\src\main\java\com\yh\web\LoginServlet.java
+D:\javatext\Project_HTML\jsp-demo1\src\main\java\com\yh\web\updateServlet.java
+D:\javatext\Project_HTML\jsp-demo1\src\main\java\com\yh\pojo\Brand.java
+D:\javatext\Project_HTML\jsp-demo1\src\main\java\com\yh\web\CheckCodeServlet.java
+D:\javatext\Project_HTML\jsp-demo1\src\main\java\com\yh\service\UserService.java
+D:\javatext\Project_HTML\jsp-demo1\src\main\java\com\yh\web\RegisterServlet.java
+D:\javatext\Project_HTML\jsp-demo1\src\main\java\com\yh\web\selectByIdServlet.java
+D:\javatext\Project_HTML\jsp-demo1\src\main\java\com\yh\service\BrandService.java
